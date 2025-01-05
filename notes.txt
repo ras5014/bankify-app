@@ -1,0 +1,3 @@
+- NextJS Route Groups
+    - Add the group to the routes in (<foldername>) folder 
+    - Each group can have its own layout
